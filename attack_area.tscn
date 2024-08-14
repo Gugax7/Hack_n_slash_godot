@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cunme0urv4kij"]
+
+[node name="Attack_area" type="Area2D"]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(13, -9, 23, 0, 22, 7, 17, 14, 10, 15, 6, -10)
